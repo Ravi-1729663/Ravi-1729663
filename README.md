@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RAVI SANKAR REDDY BOVILLA</h1>
-<h3 align="center">A passionate DATA Engineer</h3>
+<h3 align="center">A passionate DATA ENGINEER & DATA ANALYSIST</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi-1729663&label=Profile%20views&color=0e75b6&style=flat" alt="ravi-1729663" /> </p>
 
